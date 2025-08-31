@@ -1,5 +1,3 @@
-Got it 👍 You want to install **chadwm** (a custom DWM fork by Siduck with a preconfigured ricing setup) on **Arch Linux**.
-Since Arch is source-friendly, you’ll usually install it from the **AUR** or build it manually.
 
 ---
 
